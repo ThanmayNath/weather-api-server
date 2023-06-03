@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.city-input-container {
+  margin-bottom: 10px;
+}
+
+.city-list {
+  position: absolute;
+  margin: 0 auto;
+  top: 24%;
+  left: 24%;
+  transform: translateY(-50%);
+}
+
+.city-list-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+button {
+  margin-left: 5px;
+}
